@@ -3,7 +3,7 @@ package ru.netology.radio;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class RadioTest {
+class RadioTest {
 
     @Test
     void shouldSetCurrentStation() {
